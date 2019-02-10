@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Start off with the maps fragment
         activeFragment = new MapsFragment();
-        fragmentManager.beginTransaction().add(R.id.fragmentContainer, activeFragment, "maps").show(activeFragment).commit();
+        fragmentManager.beginTransaction().add(R.id.fragmentContainer, activeFragment, "maps").commit();
 
         BottomNavigationView navigation = findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);

@@ -11,7 +11,20 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_tips">TipsActivity</string>
     <string name="title_activity_list">ListActivity</string>
-    <string name="title_activity_tiles">tiles</string>
     <string name="tree">tree</string>
     <string name="today">Today</string>
+    <string name="title_activity_tiles">Activity Tiles</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_stats">StatsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+>>>>>>> activity_tabs
 </resources>

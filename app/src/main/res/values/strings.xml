@@ -4,6 +4,11 @@
     <string name="title_maps">Map</string>
     <string name="title_stats">Stats</string>
 
+    <string name="what_did_today">What did you do today?</string>
+    <string name="tip_of_the_day">Tip of the Day</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tips">TipsActivity</string>
+    <string name="title_activity_list">ListActivity</string>
 </resources>

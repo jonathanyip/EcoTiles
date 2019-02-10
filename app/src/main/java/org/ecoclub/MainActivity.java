@@ -1,5 +1,6 @@
 package org.ecoclub;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -13,6 +14,9 @@ import org.ecoclub.MapsFragment;
 import org.ecoclub.R;
 import org.ecoclub.StatsFragment;
 import org.ecoclub.TilesFragment;
+
+import java.lang.reflect.Array;
+import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
     private final FragmentManager fragmentManager = getSupportFragmentManager();
@@ -78,5 +82,9 @@ public class MainActivity extends AppCompatActivity {
 
         BottomNavigationView navigation = findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+        Intent intent = new Intent(this, ListActivity.class);
+        startActivity(intent);
+
+        Tile.setTile(Arrays.asList("act1", "act2"), 5);
     }
 }

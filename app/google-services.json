@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "694628273111",
+    "firebase_url": "https://ecotiles-70ab4.firebaseio.com",
+    "project_id": "ecotiles-70ab4",
+    "storage_bucket": "ecotiles-70ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694628273111:android:82d312fb55d5a79e",
+        "android_client_info": {
+          "package_name": "org.ecoclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694628273111-sl92jbmfl3amm763kkl851ag1rhtu4gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPAjk3nF48exc50BOD03OO65LuIa2yM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

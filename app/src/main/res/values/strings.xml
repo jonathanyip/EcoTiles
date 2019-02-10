@@ -3,6 +3,9 @@
     <string name="title_tiles">Tiles</string>
     <string name="title_maps">Map</string>
     <string name="title_stats">Stats</string>
+    <string name="address_string">Enter Address, City or Zipcode</string>
+
+
 
     <string name="google_maps_API_key">AIzaSyAsM45t5oPuDI2fIkFWRAszZpoB8fgH92U</string>
 

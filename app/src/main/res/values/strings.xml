@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Eco Club</string>
-    <string name="title_tiles">Tiles</string>
+    <string name="title_tree">Tree</string>
     <string name="title_maps">Map</string>
     <string name="title_stats">Stats</string>
 

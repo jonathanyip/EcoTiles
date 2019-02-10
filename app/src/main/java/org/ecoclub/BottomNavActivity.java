@@ -10,7 +10,7 @@ public class BottomNavActivity extends AppCompatActivity {
     private final String SWITCH_TO_MSG = "org.ecotiles.SWITCH_TO_MSG";
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener;
 
-    protected void setupNavbar() {
+    protected void setupBottomNav() {
         final Intent intent = getIntent();
         final AppCompatActivity self = this;
 

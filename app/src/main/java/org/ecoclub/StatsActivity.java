@@ -12,6 +12,6 @@ public class StatsActivity extends BottomNavActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_stats);
-        setupNavbar();
+        setupBottomNav();
     }
 }

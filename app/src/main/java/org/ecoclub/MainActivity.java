@@ -7,6 +7,6 @@ public class MainActivity extends BottomNavActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setupNavbar();
+        setupBottomNav();
     }
 }

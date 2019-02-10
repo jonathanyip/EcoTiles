@@ -2,11 +2,13 @@ package org.ecoclub;
 
 import android.os.Bundle;
 
-public class MainActivity extends BottomNavActivity {
+public class MapsActivity extends BottomNavActivity {
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_maps);
         setupNavbar();
     }
+
 }
